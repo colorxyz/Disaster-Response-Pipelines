@@ -28,4 +28,4 @@ Scripts prepare ('data/process_data.py') and model data ('models/train_classifie
     `python run.py`
 
 3. Go to http://localhost:3001 (local machine).
-
+![alt tag](https://github.com/colorxyz/Disaster-Response-Pipelines/tree/main/image/screenshot.png)
